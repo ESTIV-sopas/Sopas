@@ -1,8 +1,6 @@
+<img src="https://github.com/user-attachments/assets/9baab924-f707-4504-868d-f5c2d31b1da9" alt="Estiven Álvarez" width="150" style="border-radius: 50%; margin-top: 10px;">
 <div align="center">
 🧾 Hoja de Vida Técnica — Estiven Álvarez
-
-  
-<img src="https://github.com/user-attachments/assets/9baab924-f707-4504-868d-f5c2d31b1da9" alt="Estiven Álvarez" width="150" style="border-radius: 50%; margin-top: 10px;">
 
 Desarrollador Web — Medellín, Colombia
 
@@ -28,3 +26,4 @@ Desarrollador web con experiencia en tecnologías front-end y back-end. Apasiona
 🧰 Herramientas de Gestión y Productividad
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"> <img src="https://img.shields.io/badge/Monday.com-000?style=flat&logo=monday.com&logoColor=white">
+</div>
