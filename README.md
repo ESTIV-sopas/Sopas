@@ -1,4 +1,4 @@
-#🧾 Hoja de Vida Técnica — Estiven Álvarez
+# 🧾 Hoja de Vida Técnica — Estiven Álvarez
 <div align="center">
 
 Desarrollador Web — Medellín, Colombia
