@@ -12,13 +12,13 @@ Desarrollador web con experiencia en tecnologías front-end y back-end. Apasiona
 
 ---
 
-##📫 Contacto
+## 📫 Contacto
 
 📧 Email: estivenalvarez924@gmail.com
 
 📍 Ubicación: Medellín, Colombia
 
-🖥️ Lenguajes de Programación
+## 🖥️ Lenguajes de Programación
 
 ---
 
@@ -26,19 +26,19 @@ Desarrollador web con experiencia en tecnologías front-end y back-end. Apasiona
 
 ---
 
-📚 Frameworks y Bibliotecas
+## 📚 Frameworks y Bibliotecas
 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white">
 
 ---
 
-💾 Bases de Datos
+## 💾 Bases de Datos
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
 
 ---
 
-🧰 Herramientas de Gestión y Productividad
+## 🧰 Herramientas de Gestión y Productividad
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"> <img src="https://img.shields.io/badge/Monday.com-000?style=flat&logo=monday.com&logoColor=white">
 </div>
