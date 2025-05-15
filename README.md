@@ -1,7 +1,5 @@
 <div align="center">
-🧾 Hoja de Vida Técnica — Estiven Álvarez
-
-<img src="https://github.com/user-attachments/assets/9baab924-f707-4504-868d-f5c2d31b1da9" alt="Estiven Álvarez" width="300" style="border-radius: 50%; ">
+#🧾 Hoja de Vida Técnica — Estiven Álvarez
 
 Desarrollador Web — Medellín, Colombia
 
