@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/9baab924-f707-4504-868d-f5c2d31b1da9" alt="Estiven Álvarez" width="150" style="border-radius: 50%; margin-top: 10px;">
+<img src="https://github.com/user-attachments/assets/9baab924-f707-4504-868d-f5c2d31b1da9" alt="Estiven Álvarez" width="150" style="border-radius: 50%; margin-top: 10px; align: center">
 <div align="center">
 
   
