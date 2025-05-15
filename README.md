@@ -5,7 +5,7 @@ Desarrollador Web — Medellín, Colombia
 
 
 
-##👤 Presentación
+## 👤 Presentación
 
 Desarrollador web con experiencia en tecnologías front-end y back-end. Apasionado por la creación de soluciones eficientes y funcionales, con enfoque en el rendimiento, la escalabilidad y la buena experiencia del usuario. Me especializo en construir interfaces limpias, optimizadas y robustas, así como en la implementación de servidores y bases de datos para proyectos web modernos.
 
