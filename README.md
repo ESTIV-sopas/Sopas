@@ -47,4 +47,8 @@ Desarrollador web con experiencia en tecnologías front-end y back-end. Apasiona
 
 
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"> <img src="https://img.shields.io/badge/Monday.com-000?style=flat&logo=monday.com&logoColor=white">
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 </div>
