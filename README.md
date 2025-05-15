@@ -1,6 +1,7 @@
 <div align="center">
 🧾 Hoja de Vida Técnica — Estiven Álvarez
-----
+
+---
 
 Desarrollador Web — Medellín, Colombia
 
