@@ -1,4 +1,5 @@
-🧾 Hoja de Vida Técnica — Estiven Alvarez
+<p align="center"> <img src="https://i.imgur.com/YOUR_IMAGE.png" alt="Estiven Álvarez" width="150" style="border-radius: 50%;"> </p>
+Desarrollador web  — Medellín, Colombia
 
 👤 Presentación
 
