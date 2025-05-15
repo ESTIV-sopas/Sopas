@@ -1,8 +1,9 @@
-# 🧾 Hoja de Vida Técnica — Estiven Álvarez
+
 <div align="center">
+## 🧾 Hoja de Vida Técnica — Estiven Álvarez
+
 
 Desarrollador Web — Medellín, Colombia
-
 
 
 ## 👤 Presentación
@@ -11,7 +12,7 @@ Desarrollador web con experiencia en tecnologías front-end y back-end. Apasiona
 
 ---
 
-📫 Contacto
+##📫 Contacto
 
 📧 Email: estivenalvarez924@gmail.com
 
