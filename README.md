@@ -1,4 +1,5 @@
-🧾 Hoja de Vida Técnica — [Tu Nombre]
+🧾 Hoja de Vida Técnica — Estiven Alvarez
+
 👤 Presentación
 Desarrollador/a web con experiencia en tecnologías front-end y back-end. Apasionado/a por la creación de soluciones eficientes y el aprendizaje continuo. Me especializo en la construcción de interfaces limpias y funcionales, así como en la implementación de servidores y bases de datos robustas.
 
