@@ -1,6 +1,7 @@
 🧾 Hoja de Vida Técnica — [Tu Nombre]
 👤 Presentación
 Desarrollador/a web con experiencia en tecnologías front-end y back-end. Apasionado/a por la creación de soluciones eficientes y el aprendizaje continuo. Me especializo en la construcción de interfaces limpias y funcionales, así como en la implementación de servidores y bases de datos robustas.
+
 🖥️ Lenguajes de Programación
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -22,4 +23,5 @@ Herramientas de Gestión / Productividad
 
 📫 Contacto
 📧 Email: [estivenalvarez924@gmail.com]
+
 📍 Ubicación: [Medellín, Colombia]
