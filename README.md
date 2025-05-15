@@ -4,6 +4,12 @@
 
 Desarrollador/a web con experiencia en tecnologías front-end y back-end. Apasionado/a por la creación de soluciones eficientes y el aprendizaje continuo. Me especializo en la construcción de interfaces limpias y funcionales, así como en la implementación de servidores y bases de datos robustas.
 
+📫 Contacto
+
+📧 Email: [estivenalvarez924@gmail.com]
+
+📍 Ubicación: [Medellín, Colombia]
+
 🖥️ Lenguajes de Programación
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -33,8 +39,3 @@ Herramientas de Gestión / Productividad
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
 ![Monday](https://img.shields.io/badge/Monday.com-000?style=flat&logo=monday.com&logoColor=white)
-
-📫 Contacto
-📧 Email: [estivenalvarez924@gmail.com]
-
-📍 Ubicación: [Medellín, Colombia]
