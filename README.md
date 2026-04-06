@@ -46,7 +46,7 @@ Desarrollador web con experiencia en tecnologías front-end y back-end. Apasiona
 
 
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"> <img src="https://img.shields.io/badge/Monday.com-000?style=flat&logo=monday.com&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white"> <img src="https://img.shields.io/badge/Monday.com-000?style=flat&logo=monday.com&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white">
 
 <p align="center">
   <img src="https://github.com/ESTIV-sopas/Sopas/blob/main/ChatGPT%20Image%20May%2015%2C%202025%2C%2005_08_29%20PM.png" width="300" />
