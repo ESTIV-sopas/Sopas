@@ -32,7 +32,7 @@ Desarrollador web con experiencia en tecnologías front-end y back-end. Apasiona
 
 
 
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">  
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"> <img src="(https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white"> 
 
 
 ## 💾 Bases de Datos
